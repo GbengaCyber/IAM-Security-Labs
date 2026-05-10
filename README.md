@@ -62,13 +62,27 @@ The most common production failure is certificate rotation. Entra ID rotates the
 
 ## Screenshots
 
-![Enterprise Application Created](screenshots/01-enterprise-app-created.png)
-![SAML Basic Configuration](screenshots/02-saml-basic-config.png)
-![Federation Metadata Download](screenshots/03-federation-metadata.png)
-![User Assigned to App](screenshots/04-user-assigned.png)
-![SAML Assertion Top](screenshots/05-saml-assertion-top.png)
-![SAML Assertion Claims](screenshots/06-saml-assertion-claims.png)
+---
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/c00be3af-124b-4173-9df5-31824874fd9d" />
 
-## Interview Talking Point
+---
 
-When asked about SAML experience: "I configured a SAML SSO integration in Entra ID end to end. I set the Entity ID and ACS URL, downloaded the Federation Metadata XML for the vendor, and verified the integration by decoding the live SAMLResponse using rcFederation Tracer. I can read the assertion fields including NameID, Audience, NotOnOrAfter, and the AttributeStatement claims. I understand what breaks SSO in production and how to diagnose it."
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/aab3056d-dccb-4ebb-a952-fb66b0ad68e1" />
+
+
+---
+
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/f488f7b6-5e42-4a04-92a9-6435b260bd52" />
+
+---
+
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/f3b3f837-4a43-48ea-be93-115bb45ad70f" />
+
+
+---
+
+<img width="2446" height="1114" alt="image" src="https://github.com/user-attachments/assets/4864dae3-f555-410a-b83c-f7f5e26fadea" />
+
+
+---
+
